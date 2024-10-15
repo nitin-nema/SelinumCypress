@@ -1,0 +1,10 @@
+<!-- testng.xml -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E2E Test Suite" parallel="false">
+    <test name="Login and Dashboard Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.DashboardTest"/>
+        </classes>
+    </test>
+</suite>

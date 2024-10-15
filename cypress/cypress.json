@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://localhost:8080",
+  "viewportWidth": 1230,
+  "viewportHeight": 800,
+  "testFiles": "**/*.*"
+}
